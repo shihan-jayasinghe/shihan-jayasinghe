@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **I'm always open to exciting collaborations and new opportunities. Feel free to reach out if you have an interesting project in mind or just want to connect!**
 
-- 💬 Ask me about **Java, JavaFX, Dart, Flutter**
+- 💬 Ask me about **Java, JavaFX, Dart**
 
 - 📫 How to reach me **jashihan@gmail.com**
 
