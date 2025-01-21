@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihan-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="shihan-jayasinghe" /> </p>
 
-- 🔭 I’m currently working on [Employee Management System](https://github.com/shihan-jayasinghe/employee-management.git)
+- 🔭 I’m currently working on [responsive web](https://github.com/shihan-jayasinghe/htmlcssjsresponsive.git)
 
 - 🌱Currently using Tools & Technologies **Angular, Spring Boot, MySQL, Hibernate, Maven, JDK17, Tomcat, TypeScript, NodeJS & NPM, VS Code, Angular CLI, Bootstrap**
 
